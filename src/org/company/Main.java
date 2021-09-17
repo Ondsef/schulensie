@@ -21,6 +21,8 @@ public class Main {
         System.out.println("[3] - Quit");
         System.out.println(" ");
         System.out.println("Choose your option!");
+        System.out.println("změna pro git");
+        System.out.println("zmněna ticketu");
         Scanner sc = new Scanner(System.in);
         try
         {

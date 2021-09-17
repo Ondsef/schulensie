@@ -19,7 +19,7 @@ public class AccountManager {
 
     public void getRegistrationCodes()
     {
-        File file = new File("R:\\soukrome\\Intellij\\schulensie\\src\\org\\company\\files/RegCodes.txt");
+        File file = new File("C:\\Users\\ondrej.stolovsky\\IdeaProjects\\schulensie\\src\\org\\company\\files");
         try {
             Scanner sc = new Scanner(file);
             while (sc.hasNext())
