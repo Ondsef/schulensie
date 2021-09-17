@@ -20,7 +20,7 @@ public class Main {
         System.out.println("[2] - Register");
         System.out.println("[3] - Quit");
         System.out.println(" ");
-        System.out.println("Choose your option!");
+        System.out.println("Choose your option! debile");
         Scanner sc = new Scanner(System.in);
         try
         {
